@@ -25,5 +25,5 @@ Designed a basic AC to DC regulator PCB focusing on clean layout and stable outp
 
 ## 📸 Preview
 ![Circuit](Screenshot 2026-05-03 000749.png)
-![PCB](pcb-layout.png)
+![PCB](https://github.com/baleshwarece-jpg/PCB_PROJECTS/blob/main/Day-01-AC-DC-Regulator/Screenshot%202026-05-03%20000749.png?raw=true)
 
