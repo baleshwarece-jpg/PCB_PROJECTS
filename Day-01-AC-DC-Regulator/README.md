@@ -24,4 +24,4 @@ Designed a basic AC to DC regulator PCB focusing on clean layout and stable outp
 - Compact design  
 
 ## 📸 Images
-
+Screenshot 2026-05-03 000749.png
