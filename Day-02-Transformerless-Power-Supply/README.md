@@ -67,7 +67,14 @@ This is a **non-isolated circuit**, directly connected to AC mains. Proper insul
 ---
 
 ## 📸 Project Visuals
+## 📸 Schematic
+![Schematic](images/schematic.png)
 
+## 🧩 PCB Layout
+![PCB Layout](images/pcb-layout.png)
+
+## 🔷 3D View
+![3D View](images/3d-view.png)
 
 ---
 
