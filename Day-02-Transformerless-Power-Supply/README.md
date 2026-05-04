@@ -68,7 +68,7 @@ This is a **non-isolated circuit**, directly connected to AC mains. Proper insul
 
 ## 📸 Project Visuals
 ## 📸 Schematic
-![Schematic](images/schematic.png)
+![Schematic](https://github.com/baleshwarece-jpg/PCB_PROJECTS/blob/main/Day-02-Transformerless-Power-Supply/Screenshot%202026-05-04%20192527.png?raw=true)
 
 ## 🧩 PCB Layout
 ![PCB Layout](https://github.com/baleshwarece-jpg/PCB_PROJECTS/blob/main/Day-02-Transformerless-Power-Supply/Screenshot%202026-05-04%20192449.png?raw=true)
