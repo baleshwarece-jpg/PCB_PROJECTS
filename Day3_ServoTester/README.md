@@ -67,8 +67,9 @@ The LED provides visual feedback, and the diode ensures protection against rever
 ## 📷 Project Preview
 
 <p align="center">
-  <img src="images/pcb_top.png" width="45%"/>
-  <img src="images/pcb_bottom.png" width="45%"/>
+  <img src="https://github.com/baleshwarece-jpg/PCB_PROJECTS/blob/main/Day3_ServoTester/Screenshot%202026-05-05%20235802.png?raw=true" width="45%"/>
+  <img src="https://github.com/baleshwarece-jpg/PCB_PROJECTS/blob/main/Day3_ServoTester/Screenshot%202026-05-05%20235721.png?raw=true" width="45%"/>
+  <img src="https://github.com/baleshwarece-jpg/PCB_PROJECTS/blob/main/Day3_ServoTester/Screenshot%202026-05-05%20235741.png?raw=true" width="45%"/>
 </p>
 
 ---
