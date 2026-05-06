@@ -43,13 +43,13 @@ This project focuses on designing a motor speed control PCB using the NE555 time
 ## 📸 Project Visuals
 
 ### 🔹 Schematic
-![Schematic](images/schematic.png)
+![Schematic](https://github.com/baleshwarece-jpg/PCB_PROJECTS/blob/main/Day4_MotorSpeedController/Screenshot%202026-05-06%20204126.png?raw=true)
 
 ### 🔹 PCB Layout
-![PCB](images/pcb-layout.png)
+![PCB](https://github.com/baleshwarece-jpg/PCB_PROJECTS/blob/main/Day4_MotorSpeedController/Screenshot%202026-05-06%20204108.png?raw=true)
 
 ### 🔹 3D View
-![3D](images/3d-view.png)
+![3D](https://github.com/baleshwarece-jpg/PCB_PROJECTS/blob/main/Day4_MotorSpeedController/Screenshot%202026-05-06%20204034.png?raw=true)
 💡 *Learning Focus:* PWM motor control, power transistor interfacing, and efficient PCB component placement.
 
 ---
