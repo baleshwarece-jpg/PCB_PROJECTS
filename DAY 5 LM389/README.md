@@ -33,16 +33,18 @@ Special attention was given to reducing noise and maintaining clean signal paths
 
 🖼️ Project Images
 🔹 Schematic Design
+<img width="1019" height="540" alt="Screenshot 2026-05-14 143400" src="https://github.com/user-attachments/assets/20885d7f-67d9-4cbf-bc0e-5f3564ab53a7" />
 
-(Add Schematic Image Here)
+
 
 🔹 PCB Layout
+<img width="956" height="687" alt="Screenshot 2026-05-14 143256" src="https://github.com/user-attachments/assets/81ef88a8-f4e0-4b8a-a7d0-14db6cd7c57b" />
 
-(Add PCB Layout Image Here)
+
 
 🔹 3D PCB View
+<img width="941" height="577" alt="image" src="https://github.com/user-attachments/assets/9f206728-3f96-4b47-b3dd-9d81473c0b56" />
 
-(Add 3D Render Image Here)
 
 🎯 Applications
 Portable speaker systems
