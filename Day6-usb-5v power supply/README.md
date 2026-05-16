@@ -65,6 +65,8 @@ KiCad EDA
 📸 Project Preview
 
 <img width="928" height="496" alt="Screenshot 2026-05-16 205225" src="https://github.com/user-attachments/assets/51eb5c52-2283-44f4-b02d-9920e601018b" />
+<img width="978" height="703" alt="Screenshot 2026-05-16 205202" src="https://github.com/user-attachments/assets/a2ba6d85-8088-4070-9070-7f567f3ee55f" />
+<img width="1307" height="680" alt="Screenshot 2026-05-16 203500" src="https://github.com/user-attachments/assets/1cebe8ac-d3b4-447c-bf47-55009af7eb26" />
 
 
 📈 Future Improvements
