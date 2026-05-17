@@ -1,149 +1,186 @@
-# PCB_PROJECTS
-# 🚀 30 Days PCB Design Challenge
+🛠️ 30 Days PCB Design Challenge
 
-# 🚀 PCB Design Journey – Daily Updates
+A daily PCB design challenge — one new circuit every day, from power supplies to motor control to audio amplifiers.
+Designed in KiCad | Documented daily | Built for learning and real-world hardware practice.
 
-Welcome to my PCB Design learning and project repository.
-This repository contains my daily PCB design projects, schematic designs, PCB layouts, and fabrication files created during my electronics engineering practice journey.
 
----
+👨‍💻 About This Repository
+This repository tracks my 30-day PCB design journey — each folder is a standalone project with schematic, PCB layout, Gerber files, and documentation. The goal is to go from fundamentals to advanced PCB design through consistent daily practice in electronics engineering.
 
-# 📅 Daily PCB Projects
+📅 Project Log
+✅ Day 1 — AC-DC Regulator
+📁 Day-01-AC-DC-Regulator
 
-## ✅ Day 1 – Basic PCB Practice
+Introduction to schematic design in KiCad
+Basic component placement and routing
+PCB editor familiarization
+AC mains to regulated DC output
 
-* Introduction to schematic design
-* Basic routing and footprint understanding
-* PCB editor familiarization
+📷 Add schematic image here
 
-📷 Add Image Here
+✅ Day 2 — Transformerless Power Supply
+📁 Day-02-Transformerless-Power-Supply
 
----
+Capacitor-drop power supply design
+Improved routing techniques
+Component placement optimization
+Learned PCB design rules and clearances
 
-## ✅ Day 2 – PCB Layout Practice
+📷 Add schematic image here
 
-* Improved routing techniques
-* Component placement optimization
-* Learned PCB design rules and clearances
+✅ Day 3 — Servo Tester PCB
+📁 Day3_ServoTester
+🔧 Components Used
 
-📷 Add Image Here
+Potentiometer, Capacitor, Resistor
+LED, Diode (1N4148), Connectors
 
----
+⚙️ Features
 
-## ✅ Day 3 – Servo Tester PCB
+PWM signal generation for servo control
+Adjustable pulse width via potentiometer
+Compact single-layer PCB layout
 
-### 🔧 Components Used
+SchematicPCB Layout3D View📷 Add image📷 Add image📷 Add image
 
-* Potentiometer
-* Capacitor
-* Resistor
-* LED
-* Diode (1N4148)
-* Connectors
+✅ Day 4 — Motor Speed Controller PCB
+📁 Day4_MotorSpeedController
+🔧 Components Used
 
-### ⚙️ Features
+NE555P Timer IC, TIP122 Power Transistor
+Diodes (1N4007), Capacitors, Resistors
+LED, Screw Terminals
 
-* PWM signal generation
-* Adjustable servo control
-* Compact PCB layout
+⚙️ Features
 
-📷 Schematic Image Here
-📷 PCB Layout Here
-📷 3D View Here
+PWM-based DC motor speed control
+Adjustable output via potentiometer
+Flyback protection diodes
+Stable power handling up to transistor rating
 
----
+SchematicPCB Layout3D View📷 Add image📷 Add image📷 Add image
 
-## ✅ Day 4 – Motor Speed Control PCB
+✅ Day 5 — LM386 Audio Amplifier PCB
+📁 DAY-5-LM389
+🔧 Components Used
 
-### 🔧 Components Used
+LM386 IC, Capacitors, Resistors
+Potentiometer (volume control)
+LED, Audio Connectors, Speaker Terminal
 
-* NE555P Timer IC
-* TIP122 Transistor
-* Diodes (1N4007)
-* Capacitors
-* Resistors
-* LED
-* Screw Terminals
+⚙️ Features
 
-### ⚙️ Features
+Audio signal amplification (up to 200× gain)
+Adjustable volume control
+Compact low-power design
+Noise filtering via bypass capacitors
 
-* PWM based motor speed control
-* Adjustable output speed
-* Stable power handling
+📘 Description
+Designed an LM386-based audio amplifier PCB capable of amplifying weak audio signals to audible speaker output. Covers schematic creation, PCB routing, footprint management, and Gerber file generation for fabrication.
+SchematicPCB Layout3D View📷 Add image📷 Add image📷 Add image
 
-📷 Schematic Image Here
-📷 PCB Layout Here
-📷 3D View Here
+✅ Day 6 — USB 5V Power Supply
+📁 Day6-usb-5v-power-supply
+🔧 Components Used
 
----
+USB Type-A / Type-B connector
+Voltage regulator IC
+Decoupling capacitors, LED, Resistor
 
-## ✅ Day 5 – LM386 Audio Amplifier PCB
+⚙️ Features
 
-### 🔧 Components Used
+Regulated 5V USB power output
+Onboard power indicator LED
+Input protection and filtering
+Compact board suitable for USB-powered projects
 
-* LM386 IC
-* Capacitors
-* Resistors
-* Potentiometer
-* LED
-* Audio Connectors
-* Speaker Terminal
+SchematicPCB Layout3D View📷 Add image📷 Add image📷 Add image
 
-### ⚙️ Features
+✅ Day 7 — 3.3V LDO Regulator Board
+📁 Day7-3V3-LDO-Regulator
+🔧 Components Used
 
-* Audio signal amplification
-* Volume control
-* Compact low-power amplifier
-* Noise filtering support
+AMS1117-3.3 LDO IC (SOT-223)
+100µF electrolytic caps (×2), 10µF MLCC ceramic caps (×2)
+LED power indicator, 1kΩ resistor
+2-pin input/output connectors
 
-### 📘 Description
+⚙️ Features
 
-Designed and developed an LM386 based audio amplifier PCB capable of amplifying weak audio signals into audible speaker output. The project includes schematic creation, PCB routing, footprint management, and Gerber file generation for fabrication.
+Regulated 3.3V output up to 800 mA
+Input range 4V–12V DC
+Bulk + decoupling capacitor filtering
+Suitable for ESP32, STM32, nRF52 and similar MCU boards
 
-📷 Schematic Image Here
-📷 PCB Layout Here
-📷 3D View Here
+SchematicPCB Layout3D View📷 Add image📷 Add image📷 Add image
 
----
+🔲 Day 8 — Coming Soon
+🔲 Day 9 — Coming Soon
+🔲 Day 10 — Coming Soon
 
-# 🛠️ Software Used
+... updating daily through Day 30
 
-* KiCad
-* PCB Editor
-* Gerber Viewer
 
----
+🗂️ Repository Structure
+PCB_PROJECTS/
+├── Day-01-AC-DC-Regulator/
+├── Day-02-Transformerless-Power-Supply/
+├── Day3_ServoTester/
+├── Day4_MotorSpeedController/
+├── DAY-5-LM389/
+├── Day6-usb-5v-power-supply/
+├── Day7-3V3-LDO-Regulator/
+│   ├── Day7-3V3-LDO-Regulator.kicad_sch
+│   ├── Day7-3V3-LDO-Regulator.kicad_pcb
+│   ├── Day7-3V3-LDO-Regulator.kicad_pro
+│   ├── schematic.png
+│   └── README.md
+├── Day8-.../                         ← coming soon
+└── README.md                         ← this file
+Each project folder contains:
 
-# 📂 Repository Contents
+.kicad_sch — schematic file
+.kicad_pcb — PCB layout file
+.kicad_pro — KiCad project file
+schematic.png — exported schematic image
+README.md — project-specific documentation
 
-* Schematics
-* PCB Layouts
-* 3D PCB Views
-* Gerber Files
-* Project Documentation
 
----
+🛠️ Software Used
+ToolPurposeKiCad 7.xSchematic + PCB layout designKiCad PCB EditorRouting, copper pours, DRCKiCad 3D ViewerBoard visualizationKiCad Gerber ViewerPre-fab file verification
 
-# 🎯 Learning Outcomes
+🎯 Learning Outcomes (So Far)
 
-* PCB routing techniques
-* Component placement optimization
-* Gerber generation
-* Signal and power routing
-* Practical electronics design workflow
+ Schematic capture and net assignment
+ PCB routing — single layer and multi-layer
+ Component footprint selection and management
+ Copper pour and GND plane design
+ Design Rule Check (DRC) and error resolution
+ Gerber file generation for PCB fabrication
+ Power supply design fundamentals (AC-DC, transformerless, USB, LDO)
+ PWM circuit design (555 timer, motor control, servo)
+ Audio amplifier PCB design
+ Multi-layer PCB design
+ RF PCB design
+ High-speed PCB routing
+ Embedded systems integration
+ Advanced power electronics PCB
 
----
 
-# 🚀 Future Goals
+🚀 Future Goals
 
-* Multi-layer PCB design
-* RF PCB design
-* Embedded systems integration
-* High-speed PCB routing
-* Advanced power electronics PCB
+Complete the full 30-day streak of PCB designs
+Master KiCad from schematic to fabrication-ready Gerbers
+Build a portfolio of tested, real-world hardware circuits
+Eventually fabricate selected boards and validate them physically
+Progress into multi-layer, RF, and high-speed PCB design
 
-#ElectronicsEngineering #PCBDesign #KiCad #EmbeddedSystems #HardwareDesign #CircuitDesign
 
-- 
-## 🎯 Goal
-To master PCB design and build real-world hardware projects.
+📊 Progress Tracker
+████████░░░░░░░░░░░░░░░░░░░░░░  7 / 30 Days Complete
+
+📄 License
+All projects in this repository are open source under the MIT License.
+
+Built with 🔧 KiCad — One PCB a day keeps the breadboard away.
+#PCBDesign #KiCad #30DayChallenge #EmbeddedSystems #HardwareEngineering #ElectronicsEngineering #CircuitDesign #OpenHardware
