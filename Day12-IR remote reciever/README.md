@@ -1,7 +1,5 @@
 IR Remote Receiver Module
-Infrared signal reception interface for wireless remote-control applications using a demodulating IR receiver
-Overview
-
+Infrared signal reception interface for wireless remote control and embedded automation systems
 The IR Remote Receiver Module is a compact PCB designed to receive and decode infrared signals transmitted by standard consumer remote controls. Built around a 38 kHz demodulating IR receiver, the board converts modulated infrared light into clean digital pulses that can be processed by microcontrollers and embedded systems.
 
 This project introduces wireless communication fundamentals, infrared signal detection, noise filtering, power supply decoupling, and sensor interfacing techniques commonly used in consumer electronics.
