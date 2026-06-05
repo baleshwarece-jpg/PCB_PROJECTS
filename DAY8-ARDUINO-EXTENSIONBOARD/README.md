@@ -99,20 +99,14 @@ The board was designed as a general-purpose development platform rather than a p
 No firmware modifications are required for board operation.
 
 ---
+<img width="578" height="731" alt="Screenshot 2026-05-18 223254" src="https://github.com/user-attachments/assets/59727e4b-506e-4688-9508-001fdc3bfbb5" />
 
-## Repository Structure
 
-```text
-.
+<img width="820" height="702" alt="Screenshot 2026-05-18 223350" src="https://github.com/user-attachments/assets/eae93904-e003-420e-b7b6-e8d46ffebd4a" />
 
-├── docs/
-│   ├── schematic.pdf
-│   ├── pcb_render.png
-│   └── pcb_layout.png
-└── README.md
-```
+<img width="389" height="653" alt="Screenshot 2026-05-18 223316" src="https://github.com/user-attachments/assets/eeadb8eb-b983-4cb0-a2e6-0ffdf454af90" />
 
----
+
 
 ## License
 
