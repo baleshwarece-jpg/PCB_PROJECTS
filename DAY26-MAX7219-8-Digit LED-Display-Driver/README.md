@@ -163,8 +163,8 @@ Check the corresponding DIGx trace and connector pin for a cold solder joint or 
 
 <img width="491" height="392" alt="Screenshot 2026-06-09 231958" src="https://github.com/user-attachments/assets/31c84654-7317-4848-bd8e-50fa85cbca63" />
 
+<img width="1012" height="620" alt="Screenshot 2026-06-09 232041" src="https://github.com/user-attachments/assets/ed755288-3234-4324-8d35-5cc2154db15c" />
 
-<img width="652" height="252" alt="Screenshot 2026-06-09 215614" src="https://github.com/user-attachments/assets/f4e35946-2dc9-4baa-8d8b-449e884181bf" />
 
 
 
